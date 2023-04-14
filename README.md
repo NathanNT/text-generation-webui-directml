@@ -4,6 +4,8 @@ A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, 
 
 Its goal is to become the [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) of text generation.
 
+/!\ Modified version to run AMD GPU, may not work at this time. WIP /!\
+
 ## Features
 
 * Dropdown menu for switching between models
